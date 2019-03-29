@@ -14,11 +14,11 @@ public class DetailActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_detail);
 
-        TextView sportTitle = findViewById(R.id.titleDetail);
+        TextView sportsTitle = findViewById(R.id.titleDetail);
         ImageView sportsImage = findViewById(R.id.sportsImageDetail);
 
-        sportTitle.setText(getIntent().getStringExtra("title"));
+        sportsTitle.setText(getIntent().getStringExtra("title"));
 
-        Glide.with(this).load(getIntent().getIntExtra("image_source",0)).into(sportsImage);
+        Glide.with(this).load(getIntent().getIntExtra("image_resource",0)).into(sportsImage);
     }
 }

@@ -14,6 +14,23 @@
                     }
                 },
                 {
+                    "source": "E:\\Kuliah\\sms6\\PrakPAM\\week9\\MaterialMe-Starter\\app\\src\\main\\res\\values-land\\integers.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "57",
+                        "endColumns": "49",
+                        "endOffsets": "102"
+                    },
+                    "to": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "328",
+                        "endColumns": "49",
+                        "endOffsets": "373"
+                    }
+                },
+                {
                     "source": "C:\\Users\\VivoBook\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.1.aar\\89499b9ee77f9002f0bdad4205af13c2\\res\\values-land\\values-land.xml",
                     "from": {
                         "startLines": "2",
@@ -24,12 +41,12 @@
                         "endOffsets": "232"
                     },
                     "to": {
-                        "startLines": "6",
+                        "startLines": "7",
                         "startColumns": "4",
-                        "startOffsets": "328",
-                        "endLines": "9",
+                        "startOffsets": "378",
+                        "endLines": "10",
                         "endColumns": "12",
-                        "endOffsets": "505"
+                        "endOffsets": "555"
                     }
                 }
             ]
